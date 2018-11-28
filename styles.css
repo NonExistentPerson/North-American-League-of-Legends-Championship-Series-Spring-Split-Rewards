@@ -1,0 +1,29 @@
+html {
+    background-color: #57E6FF;
+}
+img {
+    width: 500px;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
+h1 {
+    text-align: center;
+    font-family: 'Pattaya', sans-serif;
+}
+p {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+.gray {
+    color: gray;
+}
+.white {
+    color: white;
+}
