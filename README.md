@@ -1,1 +1,0 @@
-# North-American-League-of-Legends-Championship-Series-Spring-Split-Rewards
